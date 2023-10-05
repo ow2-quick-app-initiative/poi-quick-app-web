@@ -1,3 +1,7 @@
+# ⚠ This repo has moved
+
+It now lives at https://github.com/OW2-MiniApp-Initiative/poi-miniapp-web.
+
 # Heritage in… for the Web
 
 This repository contains a web application that is part of the [Heritage In… Quick App project](https://ow2-quick-app-initiative.github.io/poi-quick-app/).
